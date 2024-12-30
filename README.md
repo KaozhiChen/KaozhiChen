@@ -41,22 +41,4 @@ A passionate developer with experience in front-end development, mobile app deve
 
 ---
 
-## 🌟 Featured Projects
-
-### [**Mobile Task Manager**](https://github.com/yourusername/task-manager)
-
-A cross-platform mobile app built with Flutter and Firebase. Features include:
-
-- Task scheduling
-- Cloud synchronization
-
-### [**Weather App**](https://github.com/yourusername/weather-app)
-
-Real-time weather forecasting app using OpenWeatherMap API. Features:
-
-- Live weather updates
-- Search by city
-
----
-
 ✨ "Code is like humor. When you have to explain it, it’s bad." ✨
